@@ -1,0 +1,4 @@
+```gitignore id="k2m8r4"
+node_modules
+.env
+```
